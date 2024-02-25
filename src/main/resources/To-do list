@@ -1,0 +1,6 @@
+Things to do for this project
+-------------------------------
+1. Learn how to implement and utilize API calls from an external source
+2. Create a front-end component for the project
+3. Ensure API keys are hidden/ignored once up and running
+4. Add logic to conversion function in service
